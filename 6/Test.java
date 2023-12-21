@@ -1,5 +1,3 @@
-package ex6;
-
 public class Test {
     s = "PAYPALISHIRING"
     rows = 3

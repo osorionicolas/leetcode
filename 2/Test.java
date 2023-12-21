@@ -1,5 +1,3 @@
-package ex2;
-
 public class Test {
 
     l1 = [2,4,3]
