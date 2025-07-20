@@ -1,7 +1,7 @@
 package ex5;
 
 public class Test {
-    s = "babad"
+    private String s = "babad";
 
-    s = "cbbd"
+    private String s_2 = "cbbd";
 }
